@@ -1,0 +1,62 @@
+﻿アルト	Alto	阿尔托
+リゼット	Lisette	莉泽特
+ヒルダ	Hilda	希尔达
+ポポ	Popo	波波
+サクヤ	Sakuya	咲夜
+モルディモルト	Mordimort	摩尔蒂莫尔特
+ののか	Nonoka	野乃香
+ラスティ	Rusty	拉斯提
+ジゼル	Giselle	吉赛尔
+アーチボルト	Archibald	阿奇博尔德
+ユアン	Ewan	伊万
+クラウス	Klaus	克劳斯
+エルクレスト	Elcrest	艾尔克莱斯特
+フランジスカ	Francisca	法兰西丝卡
+ミリー	Millicent	米利森特
+カエデ	Kaede	枫
+ウクナ	Ukuna	乌库娜
+スカウト	Scout	斯考特
+サイージャ	Sayija	塞伊嘉
+ヴェロニカ	Veronica	维罗妮卡
+キース	Keith	基斯
+ダンテ	Dante	但丁
+ゼノ	Xeno	芝诺
+ドロシー	Dorothy	多萝西
+アナスタシア	Anastasia	安娜斯塔西娅
+マリー	Marie	玛丽
+イヴ	Eve	夏娃
+ルドルフ	Hrodulf	鲁道夫
+ビアンカより	Bianca	比安卡
+フランツ	Franz	弗朗兹
+レナより	Rena	蕾娜
+メディア	Medea	美狄亚
+ローザ	Rosa	罗莎
+ブブ	Bubu	布布
+エルマー	Elmar	艾尔玛
+ボナンザ	Bonanza	伯南萨
+ウカミ一族 	Ukami clan	尤卡密
+		
+		
+魔女	Witch	魔女
+福音使徒	Harbingers	福音使徒
+		
+ミトラ村	Mithra	米特拉村
+ノルン	Norun	诺澜城
+ポート?ノワール	Nior	诺瓦港
+ランベルト	Lambert	兰伯特（王都）
+アマツ	Amatsu	天津城（地名）
+カジャル	Kayaj	卡亚（地名）
+孤月の丘	Kandaar Hills	孤月之丘
+ゴウラ火山	Gohra	格拉火山
+レグナント王国	Regnant	雷格南王国
+サウス?ヴァレー平原	"South Valley, Plains"	南瓦莱平原
+シリル村	Cyril	卡尤利村
+タルト村	Tart	达尔特村
+テクノロミー	Technolomy	塔克诺罗美
+カシミスタン	Kashmistan	卡西米斯坦
+ムジャバラール	Mujabalaar	穆迦巴拉鲁（沙漠）
+ソイ＝トゥルガー	Soi Truga	索伊托鲁加（雪原）
+ファーレンハイト	Fahrenheit	华伦海特
+ナラキヴ?クレーター	Narakiv Crater	奈拉基夫环形山
+		
+マピウムの花	Mopium Flower	樱粟花

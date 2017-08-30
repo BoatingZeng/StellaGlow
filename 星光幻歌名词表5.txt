@@ -1,0 +1,62 @@
+﻿Alto=阿尔托
+Lisette=莉泽特
+Hilda=希尔达
+Popo=波波
+Sakuya=咲夜
+Mordimort=摩尔蒂莫尔特
+Nonoka=野乃香
+Rusty=拉斯提
+Giselle=吉赛尔
+Archibald=阿奇博尔德
+Ewan=伊万
+Klaus=克劳斯
+Elcrest=艾尔克莱斯特
+Francisca=法兰西丝卡
+Millicent=米利森特
+Kaede=枫
+Ukuna=乌库娜
+Scout=斯考特
+Sayija=塞伊嘉
+Veronica=维罗妮卡
+Keith=基斯
+Dante=但丁
+Xeno=芝诺
+Dorothy=多萝西
+Anastasia=安娜斯塔西娅
+Marie=玛丽
+Eve=夏娃
+Hrodulf=鲁道夫
+Bianca=比安卡
+Franz=弗朗兹
+Rena=蕾娜
+Medea=美狄亚
+Rosa=罗莎
+Bubu=布布
+Elmar=艾尔玛
+
+ウカミ一族 =尤卡密
+
+
+Witch=魔女
+Harbingers=福音使徒
+
+Mithra=米特拉村
+Norun=诺澜城
+Nior=尼罗港
+Lambert=兰伯特（王都）
+Amatsu=天津城（地名）
+Kayaj=卡亚（地名）
+Kandaar Hills=孤月之丘
+Gohra=格拉（火山）
+Regnant=雷格南王国
+南瓦莱平原
+Cyril==卡尤利村
+Tart=达尔特村
+Technolomy=塔克诺罗美
+Kashmistan=卡西米斯坦
+Mujabalaar=穆迦巴拉鲁（沙漠）
+Soi Truga=索伊托鲁加（雪原）
+Fahrenheit=华伦海特
+Narakiv Crater=奈拉基夫环形山
+
+Mopium Flower=樱粟花（这里应该是玩了个梗 opium flower=罂粟花，所以我先这么翻译）
